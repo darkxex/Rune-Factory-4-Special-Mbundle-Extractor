@@ -1,0 +1,6 @@
+C:\Users\darkx\source\repos\mbundle extractor\mbundle extractor\obj\Debug\mbundle extractor.csprojAssemblyReference.cache
+C:\Users\darkx\source\repos\mbundle extractor\mbundle extractor\obj\Debug\mbundle extractor.csproj.CoreCompileInputs.cache
+C:\Users\darkx\source\repos\mbundle extractor\mbundle extractor\bin\Debug\mbundleExtractor.exe
+C:\Users\darkx\source\repos\mbundle extractor\mbundle extractor\bin\Debug\mbundleExtractor.pdb
+C:\Users\darkx\source\repos\mbundle extractor\mbundle extractor\obj\Debug\mbundleExtractor.exe
+C:\Users\darkx\source\repos\mbundle extractor\mbundle extractor\obj\Debug\mbundleExtractor.pdb
