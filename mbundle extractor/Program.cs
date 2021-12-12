@@ -150,7 +150,6 @@ namespace mbundle_extractor
                             else
                             {
                                 int lengthString = tempcode;
-                                String fileName = Encoding.GetEncoding(932).GetString(reader.ReadBytes(lengthString));
                                 writer.Write(reader.ReadBytes(lengthString));
                             }
                             writer.Close();
