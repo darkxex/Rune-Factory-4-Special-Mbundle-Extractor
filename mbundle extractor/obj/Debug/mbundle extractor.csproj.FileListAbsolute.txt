@@ -6,7 +6,7 @@ C:\Users\darkx\source\repos\mbundle extractor\mbundle extractor\obj\Debug\mbundl
 C:\Users\darkx\source\repos\mbundle extractor\mbundle extractor\obj\Debug\mbundleExtractor.pdb
 C:\Users\darkx\Documents\GitHub\Rune-Factory-4-Special-Mbundle-Extractor\mbundle extractor\bin\Debug\mbundleExtractor.exe
 C:\Users\darkx\Documents\GitHub\Rune-Factory-4-Special-Mbundle-Extractor\mbundle extractor\bin\Debug\mbundleExtractor.pdb
-C:\Users\darkx\Documents\GitHub\Rune-Factory-4-Special-Mbundle-Extractor\mbundle extractor\obj\Debug\mbundle extractor.csprojAssemblyReference.cache
 C:\Users\darkx\Documents\GitHub\Rune-Factory-4-Special-Mbundle-Extractor\mbundle extractor\obj\Debug\mbundle extractor.csproj.CoreCompileInputs.cache
 C:\Users\darkx\Documents\GitHub\Rune-Factory-4-Special-Mbundle-Extractor\mbundle extractor\obj\Debug\mbundleExtractor.exe
 C:\Users\darkx\Documents\GitHub\Rune-Factory-4-Special-Mbundle-Extractor\mbundle extractor\obj\Debug\mbundleExtractor.pdb
+C:\Users\darkx\Documents\GitHub\Rune-Factory-4-Special-Mbundle-Extractor\mbundle extractor\obj\Debug\mbundle extractor.csproj.AssemblyReference.cache
